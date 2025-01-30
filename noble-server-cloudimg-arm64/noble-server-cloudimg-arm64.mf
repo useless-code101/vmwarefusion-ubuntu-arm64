@@ -1,0 +1,2 @@
+SHA256(noble-server-cloudimg-arm64.vmdk)= 4df1efb8e9c1a0b3e97dc56220431f43a8a31414d963e170d0306a275ab712c1
+SHA256(noble-server-cloudimg-arm64.ovf)= a97f14d36a24cfecf53a217d83dca95be74c8484111064362d688e4fcf0dac9a

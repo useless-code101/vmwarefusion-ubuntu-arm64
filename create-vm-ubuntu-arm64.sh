@@ -1,9 +1,11 @@
 #!/bin/bash
+set -xeuo pipefail
 source common.sh
 
 # Comment/uncomment the wanted ubuntu version
 
-SEED=jammy-server-cloudimg-arm64/ubuntu-jammy-22.04-cloudimg
+SEED=noble-server-cloudimg-arm64/noble-server-cloudimg-arm64
+#SEED=jammy-server-cloudimg-arm64/ubuntu-jammy-22.04-cloudimg
 #SEED=focal-server-cloudimg-arm64/ubuntu-focal-20.04-cloudimg
 #SEED=kinetic-server-cloudimg-arm64/ubuntu-kinetic-22.10-cloudimg
 
