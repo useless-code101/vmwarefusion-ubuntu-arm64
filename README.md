@@ -30,5 +30,8 @@ brew install gsed coreutils gnu-getopt
     - Works well
 - ubuntu 22.10
     - work without display, ssh use only
+- ubuntu 24.04
+    - Works well 
 
 To se the desired version uncomment/comment SEED variable in script.
+
