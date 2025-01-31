@@ -3,7 +3,7 @@
 UTC time: 2023-02-10T16:39:19.238545Z-->
 <Envelope vmw:buildId="build-20727463" xmlns="http://schemas.dmtf.org/ovf/envelope/1" xmlns:cim="http://schemas.dmtf.org/wbem/wscim/1/common" xmlns:ovf="http://schemas.dmtf.org/ovf/envelope/1" xmlns:rasd="http://schemas.dmtf.org/wbem/wscim/1/cim-schema/2/CIM_ResourceAllocationSettingData" xmlns:vmw="http://www.vmware.com/schema/ovf" xmlns:vssd="http://schemas.dmtf.org/wbem/wscim/1/cim-schema/2/CIM_VirtualSystemSettingData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<References>
-		<File ovf:href="noble-server-cloudimg-arm64.vmdk" ovf:id="file1" ovf:size="1597243392"/>
+		<File ovf:href="noble-server-cloudimg-arm64.vmdk" ovf:id="file1" ovf:size="1597243392" />
 	</References>
 	<DiskSection>
 		<Info>Virtual disk information</Info>
